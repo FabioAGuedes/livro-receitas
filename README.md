@@ -1,4 +1,4 @@
-# Livro de receitas :woman_cook:
+# Livro de Receitas :woman_cook:
 
 Olá ! Bem vindo ao meu livro de receitas :ocean:
 
